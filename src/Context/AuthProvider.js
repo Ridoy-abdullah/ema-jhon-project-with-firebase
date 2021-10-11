@@ -11,5 +11,4 @@ const AuthProvider = ({children}) => {
         </div>
     );
 };
-
 export default AuthProvider;
